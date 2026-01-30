@@ -19,7 +19,8 @@ Alongside hands-on projects, I actively follow and create **structured technical
 ---
 ## My github states 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TaziriZaroui&theme=dark&hide_border=true&show_icons=true&icon_color=FFA500&title_color=FF6F00) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TaziriZaroui&theme=dark&hide_border=true&show_icons=true&icon_color=FFA500&title_color=FF6F00&cache_seconds=1800)
+
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TaziriZaroui&theme=github-compact&bg_color=0d1117&color=ff6f00&line=ff6f00&point=ffffff&hide_border=true)
