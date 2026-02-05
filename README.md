@@ -15,7 +15,13 @@ I focus on building **data-centric projects**, applying solid software engineeri
 Alongside hands-on projects, I actively follow and create **structured technical courses** to strengthen my foundations in data systems, analytics workflows, and modern development practices.
 
 ## My github states 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAHROUGHIBA&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TaziriZaroui&theme=dark&show_icons=true&count_private=true" />
+</p>
+
+<p align="center">
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TaziriZaroui&layout=compact&theme=dark&hide_border=true)
+</p>
 
 
 
