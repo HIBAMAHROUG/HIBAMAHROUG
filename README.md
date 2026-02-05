@@ -20,13 +20,18 @@ Alongside hands-on projects, I actively follow and create **structured technical
 ## My github states 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TaziriZaroui&label=Profile%20views&color=ff6f00&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=MAHROUGHIBA&label=Profile%20views&color=ff6f00&style=flat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MAHROUGHIBA&theme=dark&show_icons=true" />
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MAHROUGHIBA&theme=github-compact&bg_color=0d1117&color=ff6f00&line=ff6f00&point=ffffff&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAHROUGHIBA&layout=compact&theme=dark&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MAHROUGHIBA&theme=dark)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MAHROUGHIBA&repo=TON_REPO&theme=dark)](https://github.com/TON_USERNAME/TON_REPO)
+
+
+
+
 </p>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TaziriZaroui&theme=dark&show_icons=true" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TaziriZaroui&theme=github-compact&bg_color=0d1117&color=ff6f00&line=ff6f00&point=ffffff&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaziriZaroui&layout=compact&theme=dark&hide_border=true)
 
 
 
@@ -52,7 +57,8 @@ Alongside hands-on projects, I actively follow and create **structured technical
 ### 📊 Data Tools
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
+
 
 
 ## Projects
