@@ -18,10 +18,10 @@ Alongside hands-on projects, I actively follow and create **structured technical
 
 ---
 ## My github states 
-<img src="https://github-readme-stats.vercel.app/api?username=MAHROUGHIBA&theme=dark&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=TaziriZaroui&theme=dark&show_icons=true&count_private=true" />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAHROUGHIBA&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaziriZaroui&layout=compact&theme=dark&hide_border=true)
 
 
 
