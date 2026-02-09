@@ -20,10 +20,10 @@ Alongside projects, I create and follow **structured technical courses** to stre
 
 ##  GitHub Stats
 
-![GitHub Contribution Chart](https://ghchart.rshah.org/TaziriZaroui)
+![GitHub Contribution Chart](https://ghchart.rshah.org/HIBAMAHROUG)
 
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=TaziriZaroui&theme=react-dark&hide_border=true)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=HIBAMAHROUG&theme=react-dark&hide_border=true)
 
 
 ---
