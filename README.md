@@ -1,10 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:06B6D4&height=200&section=header&text=Hiba%20Mahroug&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Data%20%26%20AI&descAlignY=55&descSize=18" />
+# Hiba Mahroug
 
-<a href="https://github.com/HIBAMAHROUG">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Computer+Science+%40+ISIMM+%F0%9F%87%B9%F0%9F%87%B3;Building+with+Data+%26+AI+%F0%9F%A4%96;Python+%E2%80%A2+SQL+%E2%80%A2+Java+%E2%80%A2+C;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+ISIMM+%F0%9F%87%B9%F0%9F%87%B3;Building+with+AI+%26+DevOps+%F0%9F%A4%96;Python+%E2%80%A2+SQL+%E2%80%A2+Java+%E2%80%A2+C;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -28,30 +26,20 @@
 
 <br/>
 
-##  About Me
+## 👩‍💻 About Me
 
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
+> 🎓 3rd-year **Software Engineering** student at **ISIMM**, passionate about **software development**, **AI**, and **DevOps**.
+> I learn by building real, hands-on projects.
 
 ```yaml
 name: Hiba Mahroug
 location: Tunisia 🇹🇳
-education: 2nd year Computer Science @ ISIMM
-focus: [ "Data Analysis", "Artificial Intelligence", "Backend" ]
-currently_learning: [ "Machine Learning", "DevOps Automation" ]
+education: 3rd year Software Engineering @ ISIMM
+focus: [ "Software Development", "Artificial Intelligence", "DevOps" ]
+currently_learning: [ "Machine Learning", "Cloud & DevOps Automation" ]
 open_to: [ "Internships", "Open Source", "Collaboration" ]
 ```
 
-
-</td>
-<td width="35%" align="center">
-
-<img width="130" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="coding gif" />
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -112,7 +100,7 @@ open_to: [ "Internships", "Open Source", "Collaboration" ]
 
 <br/>
 
-## Featured Projects
+##  Featured Projects
 
 <table width="100%">
 <tr>
@@ -190,7 +178,7 @@ Notes and exercises from a hands-on Git workshop.
 
 <br/>
 
-##  Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -207,4 +195,6 @@ Notes and exercises from a hands-on Git workshop.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:8B5CF6&height=120&section=footer" width="100%"/>
+<div align="center">
+<sub>⭐️ From <a href="https://github.com/HIBAMAHROUG">Hiba Mahroug</a></sub>
+</div>
