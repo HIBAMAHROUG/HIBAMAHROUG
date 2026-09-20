@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hiba Mahroug 
+# Hi, I'm Hiba Mahroug 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=600&lines=Computer+Science+%40+ISIMM;Data+%26+AI+Enthusiast;Always+learning%2C+always+shipping" alt="typing banner" />
 
@@ -14,9 +14,10 @@
 
 ## About Me
 
-- 🎓 3rd year **Computer Science** student at **ISIMM**
-- 🌱 Learning **RAG** and **DevOps automation**
-- 💬 Ask me about **Python**, **SQL**, or **docker**
+- 🎓 2nd year **Computer Science** student at **ISIMM**
+- 🔭 Currently building **AI agents** and **data-driven simulations**
+- 🌱 Learning **Machine Learning** and **DevOps automation**
+- 💬 Ask me about **Python**, **SQL**, or **data visualization**
 - ⚡ Motto: *build small, learn fast, ship often*
 
 <br/>
@@ -26,6 +27,7 @@
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -36,11 +38,24 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
+**Web & APIs**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**DevOps & Monitoring**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A623?style=flat-square&logo=grafana&logoColor=white)
+
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 <br/>
 
@@ -72,6 +87,8 @@
 
 <br/>
 
+## 3D Contribution Graph
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/HIBAMAHROUG/HIBAMAHROUG/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="90%" />
@@ -80,6 +97,7 @@
 
 <br/>
 
+## Contribution Snake
 
 <div align="center">
 
@@ -97,7 +115,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiba-mahroug-b6a8953a7/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR-KAGGLE)
 
