@@ -1,13 +1,13 @@
 <div align="center">
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:06B6D4&height=200&section=header&text=Hiba%20Mahroug&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Data%20%26%20AI&descAlignY=55&descSize=18" />
-<div align="center">
-<!-- ── TYPING ANIMATION ── -->
+
 <a href="https://github.com/HIBAMAHROUG">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Computer+Science+%40+ISIMM+%F0%9F%87%B9%F0%9F%87%B3;Building+with+Data+%26+AI+%F0%9F%A4%96;Python+%E2%80%A2+SQL+%E2%80%A2+Java+%E2%80%A2+C;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Computer+Science+%40+ISIMM+%F0%9F%87%B9%F0%9F%87%B3;Building+with+Data+%26+AI+%F0%9F%A4%96;Python+%E2%80%A2+SQL+%E2%80%A2+Java+%E2%80%A2+C;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
+
 <br/>
-<!-- ── SOCIAL BADGES ── -->
+
 <a href="https://github.com/HIBAMAHROUG?tab=followers">
   <img src="https://img.shields.io/github/followers/HIBAMAHROUG?style=for-the-badge&logo=github&color=8B5CF6&logoColor=white&labelColor=1a1b27" alt="Followers" />
 </a>
@@ -15,13 +15,25 @@
   <img src="https://img.shields.io/badge/Repositories-15-6366F1?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27" alt="Repos" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=HIBAMAHROUG&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br/><br/>
+
+<a href="#-about-me">About</a> •
+<a href="#-tech-stack">Tech Stack</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-github-activity">GitHub Activity</a> •
+<a href="#-lets-connect">Connect</a>
+
 </div>
+
 <br/>
-<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
- 
-<img align="right" width="300" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="coding gif" />
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> About Me
- 
+
+##  About Me
+
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
+
 ```yaml
 name: Hiba Mahroug
 location: Tunisia 🇹🇳
@@ -30,75 +42,79 @@ focus: [ "Data Analysis", "Artificial Intelligence", "Backend" ]
 currently_learning: [ "Machine Learning", "DevOps Automation" ]
 open_to: [ "Internships", "Open Source", "Collaboration" ]
 ```
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:06B6D4&height=180&section=header&text=Hiba%20Mahroug&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%40%20ISIMM%20%20%7C%20%20Data%20%26%20AI&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=560&lines=Building+with+Data+%26+AI;Exploring+Cloud+%26+DevOps;Always+learning%2C+always+shipping" alt="typing banner" />
+
+</td>
+<td width="35%" align="center">
+
+<img width="130" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="coding gif" />
+
+</td>
+</tr>
+</table>
 
 <br/>
-
-<img src="https://img.shields.io/badge/Tunisia-E70013?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/CS%20Student-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20to%20Internships-06B6D4?style=for-the-badge" />
-
-</div>
-
-
-
-&nbsp;
 
 ##  Tech Stack
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="20%"><b>Languages</b></td>
+<td width="80%">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Web & APIs</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Data & AI</b></td>
+<td>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>DevOps & Monitoring</b></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Loki-F5A623?style=flat-square&logo=grafana&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</td>
+</tr>
+</table>
 
-**Languages**
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-**Web & APIs**
-<br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+## Featured Projects
 
-**Data & AI**
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-
-**DevOps & Monitoring**
-<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Loki-F5A623?style=for-the-badge&logo=grafana&logoColor=white" />
-
-**Tools**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-</div>
-
-&nbsp;
-
-##  Featured Projects
-
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -149,11 +165,9 @@ Notes and exercises from a hands-on Git workshop.
 </tr>
 </table>
 
-</div>
+<br/>
 
-&nbsp;
-
-## 📊 GitHub Stats
+##  GitHub Activity
 
 <div align="center">
 
@@ -164,13 +178,7 @@ Notes and exercises from a hands-on Git workshop.
 
 <img width="600" src="https://streak-stats.demolab.com?user=HIBAMAHROUG&theme=tokyonight&hide_border=true&background=1a1b27&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6" />
 
-</div>
-
-&nbsp;
-
-## Contribution Snake
-
-<div align="center">
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HIBAMAHROUG/HIBAMAHROUG/output/github-snake-dark.svg" />
@@ -180,9 +188,9 @@ Notes and exercises from a hands-on Git workshop.
 
 </div>
 
-&nbsp;
+<br/>
 
-## Let's Connect
+##  Let's Connect
 
 <div align="center">
 
