@@ -1,5 +1,35 @@
 <div align="center">
-
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:06B6D4&height=200&section=header&text=Hiba%20Mahroug&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Data%20%26%20AI&descAlignY=55&descSize=18" />
+<div align="center">
+<!-- ── TYPING ANIMATION ── -->
+<a href="https://github.com/HIBAMAHROUG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Computer+Science+%40+ISIMM+%F0%9F%87%B9%F0%9F%87%B3;Building+with+Data+%26+AI+%F0%9F%A4%96;Python+%E2%80%A2+SQL+%E2%80%A2+Java+%E2%80%A2+C;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+<br/>
+<!-- ── SOCIAL BADGES ── -->
+<a href="https://github.com/HIBAMAHROUG?tab=followers">
+  <img src="https://img.shields.io/github/followers/HIBAMAHROUG?style=for-the-badge&logo=github&color=8B5CF6&logoColor=white&labelColor=1a1b27" alt="Followers" />
+</a>
+<a href="https://github.com/HIBAMAHROUG?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-15-6366F1?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27" alt="Repos" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=HIBAMAHROUG&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
+<br/>
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+ 
+<img align="right" width="300" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="coding gif" />
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> About Me
+ 
+```yaml
+name: Hiba Mahroug
+location: Tunisia 🇹🇳
+education: 2nd year Computer Science @ ISIMM
+focus: [ "Data Analysis", "Artificial Intelligence", "Backend" ]
+currently_learning: [ "Machine Learning", "DevOps Automation" ]
+open_to: [ "Internships", "Open Source", "Collaboration" ]
+```
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:06B6D4&height=180&section=header&text=Hiba%20Mahroug&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%40%20ISIMM%20%20%7C%20%20Data%20%26%20AI&descAlignY=58&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=560&lines=Building+with+Data+%26+AI;Exploring+Cloud+%26+DevOps;Always+learning%2C+always+shipping" alt="typing banner" />
