@@ -2,7 +2,7 @@
 
 # Hiba Mahroug
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+ISIMM+%F0%9F%87%B9%F0%9F%87%B3;Building+with+AI+%26+DevOps+%F0%9F%A4%96;Python+%E2%80%A2+SQL+%E2%80%A2+Java+%E2%80%A2+C;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+ISIMM+%F0%9F%87%B9%F0%9F%87%B3;Building+with+AI+%26+DevOps+%F0%9F%A4%96;Python+%E2%80%A2+SQL+%E2%80%A2+Java+%E2%80%A2+JS;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
