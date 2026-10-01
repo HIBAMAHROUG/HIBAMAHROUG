@@ -37,7 +37,7 @@ location: Tunisia 🇹🇳
 education: 3rd year Software Engineering @ ISIMM
 focus: [ "Software Development", "Artificial Intelligence", "DevOps" ]
 currently_learning: [ "Machine Learning", "Cloud & DevOps Automation" ]
-open_to: [ "Internships", "Open Source", "Collaboration" ]
+open_to: [ "Internships",  "Collaboration" ]
 ```
 
 
