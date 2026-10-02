@@ -145,9 +145,9 @@ A web project built from scratch.
 </td>
 <td width="50%" valign="top">
 
-**[Git Course with Taziri](https://github.com/HIBAMAHROUG/GIT_COURSE_WITH_TAZIRI)**
+**[ShifaAI](https://github.com/HIBAMAHROUG/ShifaAI))**
 <br/>
-Notes and exercises from a hands-on Git workshop.
+AI powered plateform that understands ur symptomes and preduict ur illness using NLP.
 
 </td>
 </tr>
