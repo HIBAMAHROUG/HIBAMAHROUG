@@ -26,14 +26,14 @@
 
 <br/>
 
-## 👩‍💻 About Me
+##  About Me
 
-> 🎓 3rd-year **Software Engineering** student at **ISIMM**, passionate about **software development**, **AI**, and **DevOps**.
+> 3rd-year **Software Engineering** student at **ISIMM**, passionate about **software development**, **AI**, and **DevOps**.
 > I learn by building real, hands-on projects.
 
 ```yaml
 name: Hiba Mahroug
-location: Tunisia 🇹🇳
+location: Tunisia 
 education: 3rd year Software Engineering @ ISIMM
 focus: [ "Software Development", "Artificial Intelligence", "DevOps" ]
 currently_learning: [ "Machine Learning", "Cloud & DevOps Automation" ]
